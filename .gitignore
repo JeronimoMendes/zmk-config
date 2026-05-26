@@ -1,2 +1,5 @@
 
 .zmk/
+.zmk-workspace/
+firmware/
+.DS_Store
